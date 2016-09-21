@@ -8,8 +8,10 @@
 #ifndef MATICE_H_
 #define MATICE_H_
 
+#define DIM 5
+
 class Matice {
-	int *data[5];
+	int *data[DIM];
 public:
 	Matice();
 	void print();

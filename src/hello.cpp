@@ -6,7 +6,7 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-#include "MaticeOne.h";
+#include "MaticeOne.h"
 #include <iostream>
 using namespace std;
 

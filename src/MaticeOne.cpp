@@ -9,7 +9,7 @@
 
 MaticeOne::MaticeOne() {
 	// TODO Auto-generated constructor stub
-	for(int i = 0; i<5; i++)
+	for (int i = 0; i < DIM; i++)
 		set(i, i, 1);
 }
 
